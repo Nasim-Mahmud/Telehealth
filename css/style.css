@@ -6,7 +6,7 @@ html {
 	scroll-behavior: smooth;
 }
 body{
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	line-height: 24px;
 }
@@ -22,11 +22,129 @@ a, a:hover{
 	width: 100%;
 
 }
+.header-section .main-menu{
+	
+}
 .header-section .banner-section{
 	width: 100%;
 	background: url("../images/d.jpg") center top no-repeat;
 	background-size: cover;
 }
+.header-section .banner-section .row {
+    padding: 90px 0px 90px 0px;
+}
 .header-section .banner-section .banner-body{
 
+}
+.header-section .banner-section .banner-body h5 {
+    margin: 0px;
+    padding: 0px 0px 20px 0px;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+.header-section .banner-section .banner-body h1 {
+    margin: 0px;
+    padding: 0px 0px 30px 0px;
+    font-size: 50px;
+    font-weight: 800;
+    letter-spacing: 1px;
+}
+.header-section .banner-section .banner-body p {
+    margin: 0px;
+    padding: 0px 0px 30px 0px;
+    font-size: 16px;
+    font-weight: 400;
+}
+.header-section .banner-section .banner-body .inner-btn{
+
+}
+.header-section .banner-section .banner-body .inner-btn .btn-primary {
+    margin: 0px 30px 0px 0px;
+    padding: 10px 20px 10px 20px;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    border: 2px solid #0F123B;
+    background: #0F123B;
+    border-radius: 25px;
+    transition: 1s;
+}
+.header-section .banner-section .banner-body .inner-btn .btn-primary:hover{
+	background: transparent;
+	border: 2px solid #0F123B;
+	color: #0F123B;
+}
+/*.header-section .banner-section .banner-body .inner-btn .btn-light{
+	margin: 0px;
+    padding: 10px 20px 10px 20px;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    border: 2px solid #0F123B;
+    background: #ffffff;
+    transition: 1s;
+}
+.header-section .banner-section .banner-body .inner-btn .btn-light:hover{
+	background: #0F123B;
+	border: 2px solid #0F123B;
+	color: #ffffff;
+}*/
+
+.aboutUs{
+	margin: 0px;
+	padding: 80px 0px 80px 0px;
+}
+.aboutUs .aboutBack{
+
+}
+.aboutUs .aboutBack img {
+    margin: 0px 0px 0px -90px;
+    padding: 0px;
+    height: 94%;
+}
+.aboutUs .aboutBack .about-body{
+
+}
+.aboutUs .about-body h5{
+	margin: 0px;
+    padding: 0px 0px 20px 0px;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+.aboutUs .about-body h1{
+	margin: 0px;
+    padding: 0px 0px 30px 0px;
+    font-size: 40px;
+    font-weight: 800;
+    letter-spacing: 1px;
+}
+.aboutUs .about-body p{
+	margin: 0px;
+    padding: 0px 0px 30px 0px;
+    font-size: 16px;
+    font-weight: 400;
+}	
+.aboutUs .about-body .inner-btn{
+
+}
+.aboutUs .about-body .inner-btn .btn-primary{
+	margin: 0px 30px 0px 0px;
+    padding: 10px 20px 10px 20px;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    border: 2px solid #0F123B;
+    background: #0F123B;
+    border-radius: 25px;
+    transition: 1s;
+}
+.aboutUs .about-body .inner-btn .btn-primary:hover{
+	background: transparent;
+	border: 2px solid #0F123B;
+	color: #0F123B;
 }
