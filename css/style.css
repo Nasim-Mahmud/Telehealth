@@ -44,24 +44,24 @@ a, a:hover{
 
 }
 .header-section .main-menu .navbar-light .ib a{
-	background:#060F1E;
-	border: 1px solid #060F1E;
+	background:#0F123B;
+	border: 1px solid #0F123B;
 	transition: 1s;
 }
 .header-section .main-menu .navbar-light .ib a:hover{
 	background:transparent;
-	border: 1px solid #060F1E;
-	color: #060F1E;
+	border: 1px solid #0F123B;
+	color: #0F123B;
 }
 .header-section .main-menu .navbar-light .ic a{
-	background:#060F1E;
-	border: 1px solid #060F1E;
+	background:#0F123B;
+	border: 1px solid #0F123B;
 	transition: 1s;
 }
 .header-section .main-menu .navbar-light .ic a:hover{
 	background:transparent;
-	border: 1px solid #060F1E;
-	color: #060F1E;
+	border: 1px solid #0F123B;
+	color: #0F123B;
 }
 .header-section .banner-section{
 	width: 100%;
